@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "json-server",
+      "display_name": "store",
+      "description": "info of store products"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "swiss peelers",
+      "name": 1,
+      "display_name": "name",
+      "description": "description of products in the store"
+    },
+    {
+      "_id": 3
+    }
+  ]
+}
